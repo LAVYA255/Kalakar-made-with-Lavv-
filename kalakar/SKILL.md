@@ -1,5 +1,5 @@
 ---
-name: design-forward-website
+name: kalakar
 description: >-
   Build NEW award-winning websites for ANY domain — Awwwards / FWA caliber,
   heavily aesthetic, animated, AND optimized. Creator skill; reference sites
